@@ -1,5 +1,5 @@
 {
-  "name": "litepie-datepicker",
+  "name": "tradevu-datepicker",
   "version": "1.0.15",
   "description": "A date range picker component for Vue.js and Tailwind CSS, dependent to day.js",
   "main": "dist/litepie-datepicker.ssr.js",
@@ -18,21 +18,17 @@
     "tailwind-daterange-picker"
   ],
   "author": {
-    "name": "kenhyuwa",
-    "email": "wahyu.dhiraashandy8@gmail.com",
+    "name": "Elliott Coe",
+    "email": "elliottcoe@gmail.com",
     "url": "https://github.com/kenhyuwa"
   },
   "contributors": [],
   "license": "MIT",
   "private": false,
-  "homepage": "https://litepie.com",
+  "homepage": "https://tradehouse.media",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenhyuwa/litepie-datepicker.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kenhyuwa/litepie-datepicker/issues",
-    "email": "wahyu.dhiraashandy8@gmail.com"
+    "url": "https://github.com/elliottcoe/datepicker.git"
   },
   "sideEffects": false,
   "scripts": {
